@@ -2,7 +2,7 @@
 This is pytorch implmentation project of [Bootsrapped DQN Paper](https://arxiv.org/abs/1602.04621)
 
 ## Overview
-![](img/overview.png)
+![](imgs/overview.png)
 
 Bootsrapped DQN is differ from DQN(Deep Q Network) with 4 main architecture
 
@@ -43,7 +43,7 @@ I put some extra visualization code to make you enjoy.
 To make animation, put *test* in `mode` option and *resource* in `refer_img` option.
 `refer_img` option gives more enjoyable `GIF` animations.
 
-![](img/Breakout_result.gif)
+![](imgs/Breakout_result.gif)
 
 ## Reference
 - [[PAPER]](https://arxiv.org/abs/1607.00148) Deep Exploration via Bootstrapped DQN, Osband at el, NIPS 2016
