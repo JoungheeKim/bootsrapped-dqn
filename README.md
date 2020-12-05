@@ -43,9 +43,8 @@ I put some extra visualization code to make you enjoy.
 To make animation, put *test* in `mode` option and *resource* in `refer_img` option.
 `refer_img` option gives more enjoyable `GIF` animations.
 
-<center>
 ![](imgs/Breakout_result.gif)
-</center>
+
 
 ## Reference
 - [[PAPER]](https://arxiv.org/abs/1607.00148) Deep Exploration via Bootstrapped DQN, Osband at el, NIPS 2016
