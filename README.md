@@ -29,6 +29,9 @@ Paper setting is provided as a default.
 But please make sure that you got enough memory to train this model.
 Because of **Repaly Memory**, It takes a lot of resources
 
+![](imgs/performance.png?style=centerme)
+<center><b>Performance change graph</b></center>
+
 ## Result Visulization
 ```shell
 python breakout.py \
@@ -44,7 +47,7 @@ To make animation, put *test* in `mode` option and *resource* in `refer_img` opt
 `refer_img` option gives more enjoyable `GIF` animations.
 
 ![](imgs/breakout_result.gif?style=centerme)
-
+<center><b>Game playing with model</b></center>
 
 ## Reference
 - [[PAPER]](https://arxiv.org/abs/1607.00148) Deep Exploration via Bootstrapped DQN, Osband at el, NIPS 2016
