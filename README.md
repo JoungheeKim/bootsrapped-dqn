@@ -43,7 +43,7 @@ I put some extra visualization code to make you enjoy.
 To make animation, put *test* in `mode` option and *resource* in `refer_img` option.
 `refer_img` option gives more enjoyable `GIF` animations.
 
-![](imgs/breakout_result.gif)
+![](imgs/breakout_result.gif?style=centerme)
 
 
 ## Reference
