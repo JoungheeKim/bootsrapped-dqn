@@ -43,8 +43,6 @@ I put some extra visualization code to make you enjoy.
 To make animation, put *test* in `mode` option and *resource* in `refer_img` option.
 `refer_img` option gives more enjoyable `GIF` animations.
 
-<div style="text-align:center"><img src="imgs/breakout_result.gif" /></div>
-
 ![](imgs/breakout_result.gif)
 
 
