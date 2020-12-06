@@ -29,8 +29,7 @@ Paper setting is provided as a default.
 But please make sure that you got enough memory to train this model.
 Because of **Repaly Memory**, It takes a lot of resources
 
-![](imgs/performance.png?style=centerme)
-<center><b>Performance change graph</b></center>
+![](imgs/performance.png?style=center)
 
 ## Result Visulization
 ```shell
@@ -46,8 +45,7 @@ I put some extra visualization code to make you enjoy.
 To make animation, put *test* in `mode` option and *resource* in `refer_img` option.
 `refer_img` option gives more enjoyable `GIF` animations.
 
-![](imgs/breakout_result.gif?style=centerme)
-<center><b>Game playing with model</b></center>
+![](imgs/breakout_result.gif?style=center)
 
 ## Reference
 - [[PAPER]](https://arxiv.org/abs/1607.00148) Deep Exploration via Bootstrapped DQN, Osband at el, NIPS 2016
